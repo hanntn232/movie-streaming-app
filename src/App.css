@@ -1,5 +1,10 @@
+@import url('https://fonts.googleapis.com/css2?family=Figtree:ital,wght@0,300..900;1,300..900&display=swap');
+@import url('bootstrap-icons/font/bootstrap-icons.css');
+
 .App {
   text-align: center;
+  color: white;
+  font-weight: 400;
 }
 
 .App-logo {

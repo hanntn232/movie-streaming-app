@@ -1,0 +1,9 @@
+.background {
+    background: url(./BG.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 100vw;
+    height: auto;
+    margin: -12px;
+    padding-bottom: 30px;
+}

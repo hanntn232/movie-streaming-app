@@ -1,0 +1,10 @@
+.icon {
+    padding-left: 0;
+    padding-right: 6px;
+}
+.container {
+    max-width: none;
+}
+.row {
+    row-gap: 10px;
+}
